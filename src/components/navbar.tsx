@@ -2,7 +2,7 @@ function NavBar() {
     return (
         <nav className="nav-bar">
             <a href="#" className="logo">
-                CoinMarket
+                CryptoMarket
             </a>
             <ul>
                 <li>
