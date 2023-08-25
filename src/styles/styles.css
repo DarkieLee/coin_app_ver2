@@ -258,7 +258,7 @@ button.roll-back-top {
     bottom: 20px;
     background-color: rgba(0,0,0,.3);
     border-radius: 50%;
-    width: 3.5vw;
+    width: 50px;
     z-index: 99;
     outline: none;
     border: none;
@@ -271,7 +271,7 @@ button.roll-back-top:hover {
 }
 
 button img {
-    width: 3.5vw;
+    width: 50px;
     height: 5vh;
     filter: invert(1);
 }
